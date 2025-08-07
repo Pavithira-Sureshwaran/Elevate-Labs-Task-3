@@ -61,9 +61,11 @@ public class Mains {
                     break;
                 default:
                     System.out.println("Invalid choice. Please try again.");
+                    System.out.println();
             }
         } while (choice != 5);
 
         scanner.close();
     }
 }
+
