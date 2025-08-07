@@ -1,0 +1,95 @@
+Library Menu:
+1. List all books
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+Enter your choice: 1
+1984 by George Orwell (ISBN: ISBN001) - Available
+To Kill a Mockingbird by Harper Lee (ISBN: ISBN002) - Available
+
+Library Menu:
+1. List all books
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+Enter your choice: 2
+User: Alice (ID: 1)
+User: Bob (ID: 2)
+
+Library Menu:
+1. List all books
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+
+Library Menu:
+1. List all books
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+4. Return a book
+5. Exit
+5. Exit
+Enter your choice: 3
+Enter ISBN of the book to issue: ISBN001
+Enter User ID: 1
+Book issued successfully.
+
+Library Menu:
+1. List all books
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+Enter your choice: 3
+Enter ISBN of the book to issue: ISBN004
+Enter User ID: 5
+Issue failed. Book may already be issued or user/book not found.
+
+Library Menu:
+1. List all books
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+Enter your choice: 4
+Enter ISBN of the book to return: ISBN001
+Enter User ID: 1
+Book returned successfully.
+
+Library Menu:
+1. List all books
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+Enter your choice: 4
+Enter ISBN of the book to return: ISBN005
+Enter User ID: 5
+Return failed. Book may not be issued or user/book not found.
+
+Library Menu:
+1. List all books
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+Enter your choice: 9
+Invalid choice. Please try again.
+
+Library Menu:
+1. List all books
+2. List all users
+3. Issue a book
+4. Return a book
+5. Exit
+Enter your choice: 5
+Exiting the Library System.
